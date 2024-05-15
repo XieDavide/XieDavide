@@ -7,8 +7,15 @@ I'm:<br/>
 -- a pianist 🎹<br/>
 -- a christian ⛪︎ belonging to the Ministry of Repentance and Holiness (feel free to reach out if you get curious)<br/>
 
-🏫 Studying Economics, Managemente and Computer Science @ Bocconi University
+🏫 Studying [Economics, Managemente and Computer Science](https://www.unibocconi.it/en/programs/bachelor-science/economics-management-and-computer-science) @ Bocconi University
 📟 Learning about Data Science
+🎹 I love playing piano
+🍣 Used to be a maki chef but I could teach you
+📷 Take photos
+🏓 Challenge me!
+
+
+
 
 <!--
 **XieDavide/XieDavide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
