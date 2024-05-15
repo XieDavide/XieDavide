@@ -1,9 +1,5 @@
 ### Hi there 👋, I'm Xie Davide Chengrui!
 
-
-
-![(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/XieDavide/XieDavide/blob/main/IMG_0120.heic))
-
 Hi!!! I'm Xie Davide Chengrui, nice to meet you!
 I'm:
 -- a student 👨🏻‍💻
