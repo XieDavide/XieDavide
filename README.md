@@ -15,6 +15,7 @@ I'm:<br/>
 🏓 Challenge me!<br/>
 ⛪️ Christian belonging to the [Ministry of Repentance and Holiness](https://www.jesusislordradio.info) (feel free to contact if you get curious!)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/XieDavide)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davidechengruixie/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/xie.davide/)  
 
 
 
