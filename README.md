@@ -7,12 +7,13 @@ I'm:<br/>
 -- a pianist 🎹<br/>
 -- a christian ⛪︎ belonging to the Ministry of Repentance and Holiness (feel free to reach out if you get curious)<br/>
 
-🏫 Studying [Economics, Managemente and Computer Science](https://www.unibocconi.it/en/programs/bachelor-science/economics-management-and-computer-science) @ Bocconi University
-📟 Learning about Data Science
-🎹 I love playing piano
-🍣 Used to be a maki chef but I could teach you
-📷 Take photos
-🏓 Challenge me!
+🏫 Studying [Economics, Managemente and Computer Science](https://www.unibocconi.it/en/programs/bachelor-science/economics-management-and-computer-science) @ Bocconi University<br/>
+📟 Learning about Data Science<br/>
+🎹 I love playing piano<br/>
+🍣 Used to be a maki chef but I could teach you<br/>
+📷 Take photos<br/>
+🏓 Challenge me!<br/>
+⛪️ Christian belonging to the [Ministry of Repentance and Holiness](https://www.jesusislordradio.info) (feel free to contact if you get curious!)
 
 
 
