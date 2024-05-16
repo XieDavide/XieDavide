@@ -19,7 +19,7 @@
 ### Credit Scoring Algorithm
 In the project, the task is to build a credit scoring algorithm predicting the probability that somebody will experience financial distress in the next two years. The goal of this project is to build a model that loan providers can use to help borrowers make the best financial decisions.<br/>
  --> [Kaggle Competition](https://www.kaggle.com/competitions/GiveMeSomeCredit)
-![https://github.com/XieDavide/XieDavide/blob/main/Screenshot%202024-05-16%20alle%2011.10.29.png]()
+![https://github.com/XieDavide/XieDavide/blob/main/Screenshot%202024-05-16%20alle%2011.10.29.png](https://github.com/XieDavide/CreditScoring-Default-Probability-Prediction)
 
 
 ### 😂 Random Dev Meme
