@@ -14,9 +14,9 @@
 
 ## Technical Skills
 
--- 💻: Python (pandas, numpy, scikit-learn, matplotlib, tensorflow, pytorch)<br/>
--- 📟: R, SQL, Excel, Power BI<br/>
--- Others: Microsoft Package, Adobe Lightroom&Photoshop, Premiere Pro, Autocad, Latex<br/>
+💻: Python (pandas, numpy, scikit-learn, matplotlib, tensorflow, pytorch)<br/>
+📟: R, SQL, Excel, Power BI<br/>
+Others: Microsoft Package, Adobe Lightroom&Photoshop, Premiere Pro, Autocad, Latex<br/>
 
 ## Projects
 
