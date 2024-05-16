@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Xie Davide Chengrui!
 
-Nice to meet you!<br/>
+## Nice to meet you!<br/>
 
 🏫 Studying [Economics, Managemente and Computer Science](https://www.unibocconi.it/en/programs/bachelor-science/economics-management-and-computer-science) @ Bocconi University<br/>
 📟 Learning about Data Science<br/>
@@ -12,6 +12,13 @@ Nice to meet you!<br/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/XieDavide)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davidechengruixie/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/xie.davide/)  
 
+## Technical Skills
+
+-- 💻: Python (pandas, numpy, scikit-learn, matplotlib, tensorflow, pytorch)<br/>
+-- 📟: R, SQL, Excel, Power BI<br/>
+-- Others: Microsoft Package, Adobe Lightroom&Photoshop, Premiere Pro, Autocad, Latex<br/>
+
+## Projects
 
 
 <!--
