@@ -1,11 +1,6 @@
 ### Hi there 👋, I'm Xie Davide Chengrui!
 
-Hi!!! I'm Xie Davide Chengrui, nice to meet you!<br/>
-I'm:<br/>
--- a student 👨🏻‍💻<br/>
--- a maki chef 🍣<br/>
--- a pianist 🎹<br/>
--- a christian ⛪︎ belonging to the Ministry of Repentance and Holiness (feel free to reach out if you get curious)<br/>
+Nice to meet you!<br/>
 
 🏫 Studying [Economics, Managemente and Computer Science](https://www.unibocconi.it/en/programs/bachelor-science/economics-management-and-computer-science) @ Bocconi University<br/>
 📟 Learning about Data Science<br/>
