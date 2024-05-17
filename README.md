@@ -16,7 +16,7 @@
 
 # 👨🏻‍💻 Projects
 
-### Credit Scoring Algorithm：[Default Probability](https://github.com/XieDavide/CreditScoring-Default-Probability-Prediction)
+### [Credit Scoring Algorithm：Default Probability](https://github.com/XieDavide/CreditScoring-Default-Probability-Prediction)
 In the project, the task is to build a credit scoring algorithm predicting the probability that somebody will experience financial distress in the next two years. The goal of this project is to build a model that loan providers can use to help borrowers make the best financial decisions.<br/>
  --> [Kaggle Competition](https://www.kaggle.com/competitions/GiveMeSomeCredit) <br/>
 
@@ -26,6 +26,11 @@ In the project, the task is to build a credit scoring algorithm predicting the p
 <!-- Image 2 -->
 <img src="https://github.com/XieDavide/XieDavide/blob/main/CatBoost_tuned.jpeg" alt="Project Image" width="500">
 
+### [Belgium Macroeconomy Analysis](https://github.com/XieDavide/Macroeconomy-Analysis)
+This report analyzes the economic situation of Belgium and the policies implemented by previous governments over the last decade. It considers economic growth, shocks like the pandemic and the Russia- Ukraine war, and critical issues concerning the country's political-economic structure.
+
+<img src="https://github.com/XieDavide/Macroeconomy-Analysis/blob/main/Screenshot%202024-05-17%20alle%2013.20.32.png" alt="Project Image" width="500">
+<img src="https://github.com/XieDavide/Macroeconomy-Analysis/blob/main/Screenshot%202024-05-17%20alle%2013.20.49.png" alt="Project Image" width="500">
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
